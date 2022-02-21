@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about Machine Learning & Deep Learning 
 - 📫 Email me at lantunes@alunos.utfpr.edu.br
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Knowledge</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
