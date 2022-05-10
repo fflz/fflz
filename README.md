@@ -1,13 +1,6 @@
-<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">, I'm @fflz </h1>
+<h1 align="Center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h1>
 
-<h3> 👨‍💻&nbsp;About me</h3>
 
-- 🎓 Bachelor of Computer Science at UTFPR - Federal University of Technology - Paraná - Brazil
-- 💼 Currently working on "Facial recognition using OpenCV"
-- 🌱 I’m currently learning about Machine Learning & Deep Learning 
-- 📫 Email me at lantunes@alunos.utfpr.edu.br
-
-<h3> 🛠 &nbsp;Knowledge</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
